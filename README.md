@@ -2,12 +2,11 @@
 
 Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
-## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+## Desenvolvedor
+
+- [Nathália Dias #1] (https://github.com/nathaliadt)
+-
+- ...
 
 ---
 
@@ -16,19 +15,21 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
 ## Funcionalidades
 
 Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
- - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
- - Configuração para criação de aplicação `streamlit`;
- - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
- - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
+
+- Utilização do arquivo `pyproject.toml` como centralizador de dependências;
+- Configuração para criação de aplicação `streamlit`;
+- Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
+- Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
 
 ## Instruções
 
 ### Requisitos
 
 Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
- - git
- - Python 3.8
- - Poetry `1.1.13` ou superior
+
+- git
+- Python 3.8
+- Poetry `1.1.13` ou superior
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
 
@@ -43,14 +44,13 @@ Para iniciar um novo projeto você precisa ter instalado na sua máquina as apli
 
 Pronto, acaba de criar um repositório a partir deste modelo. Para mais informações sobre o uso de templates, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-
 ### Contribuindo com um repositório já criado
 
-Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com repositórios já criados,  você precisa cloná-lo. Para isso, siga os seguintes passos:
+Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com repositórios já criados, você precisa cloná-lo. Para isso, siga os seguintes passos:
 
 1. Acima da lista de arquivos, clique no botão **Code** (em verde).
 2. Copie a URL para o repositório.
-    - Tente clonar utilizando uma chave **SSH**. Para isso, clique na aba **SSH** e em seguida clique no ícone de cópia.
+   - Tente clonar utilizando uma chave **SSH**. Para isso, clique na aba **SSH** e em seguida clique no ícone de cópia.
 3. Abra o terminal.
 4. Altere o diretório de trabalho atual para o local que deseja ter o diretório clonado.
 5. Digite `git clone` e cole a URL que você copiou anteriormente:
@@ -58,6 +58,7 @@ Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com
 ```
 git clone git@github.com:NOME-DE-USUARIO/REPOSITORIO.git
 ```
+
 6. Pressione **Enter** para criar seu clone local.
 
 Proto, com isso você acaba de clonar um repositório. Para mais informações sobre a clonagem de arquivos, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
@@ -84,9 +85,7 @@ Para mais informações sobre os comandos do Poetry, visite a [documentação of
 
 Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
 
-
 ### Organização de diretórios
-
 
 ```
 .
