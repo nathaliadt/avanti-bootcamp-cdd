@@ -1,0 +1,9 @@
+variavel,descricao,tipo,subtipo
+Espécie,"Espécie do pinguin (Adelie, Gentoo e Chrinstrap).",qualitativa,nominal
+Ilha,"Ilha em que o pinguin foi observado (Biscoe, Dream e Torgersen).",qualitativa,nominal
+Comprimento do bico,Mede o comprimeto do bico em milímetros,quantitativa,contínua
+Profundidade do bico,Mede a profundidade do bico em milímetros,quantitativa,contínua
+Comprimento da nadadeira,Mede o comprimento da nadadeira em milímetros.,quantitativa,contínua
+Massa corporal,Mede a massa corporal em gramas.,quantitativa,contínua
+Sexo do pinguin,Macho ou Fêmea.,qualitativa,nominal
+Ano,Ano da coleta do dado,qualitativa,ordinal
